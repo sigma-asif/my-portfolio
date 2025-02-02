@@ -1,0 +1,30 @@
+/* shared design */
+.btn-primary{
+    border-radius: 5px;
+background: rgb(253, 110, 10);
+padding: 18px 30px;
+}
+
+header{
+    max-width: 1240px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+nav ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+span{
+    color: yellow;
+}
